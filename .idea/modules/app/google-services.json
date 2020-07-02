@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319745713614",
+    "firebase_url": "https://fir-a201e.firebaseio.com",
+    "project_id": "fir-a201e",
+    "storage_bucket": "fir-a201e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319745713614:android:1237157e67a9fba4fb779f",
+        "android_client_info": {
+          "package_name": "com.example.blogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319745713614-cf5aidlafitfh13tg5i18v13bds3dfqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blogger",
+            "certificate_hash": "e7c70a5a8e7650359b14e3c690fde5a791777740"
+          }
+        },
+        {
+          "client_id": "319745713614-1isb384bgjekis9jikiusidmuqoqm1gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJPFOLPmUnrheJVvR8jmWe3gYgwvZluE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319745713614-1isb384bgjekis9jikiusidmuqoqm1gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
